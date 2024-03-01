@@ -1,8 +1,8 @@
 
 ---
-title: "Blogs"
+title: "书籍"
 listing:
-  contents: posts
+  contents: books
   sort: 
     - "date desc"
     - "title desc"

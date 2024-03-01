@@ -1,8 +1,7 @@
-
 ---
-title: "Blogs"
+title: "技术"
 listing:
-  contents: posts
+  contents: techs
   sort: 
     - "date desc"
     - "title desc"

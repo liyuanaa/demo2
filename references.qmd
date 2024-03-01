@@ -1,5 +1,6 @@
 ---
 title: "References"
+sidebar: false
 listing:
   contents: refers
   sort: "date desc"

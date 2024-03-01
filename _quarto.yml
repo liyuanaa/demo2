@@ -43,6 +43,10 @@ website:
       background: light
       contents: 
         - index.qmd
+        - techs.qmd
+        - papers.qmd
+        - books.qmd
+        
     - title: "资料"
       contents: 
         - references.qmd

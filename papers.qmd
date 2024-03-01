@@ -1,8 +1,8 @@
 
 ---
-title: "Blogs"
+title: "论文"
 listing:
-  contents: posts
+  contents: papers
   sort: 
     - "date desc"
     - "title desc"
