@@ -1,0 +1,14 @@
+---
+title: "TAR-Is It Better to Kill Two Birds with One Stone? Internal Control Audit Quality and Audit Costs for Integrated versus Nonintegrated Audits"
+author: "李原"
+date: "2024-02-29"
+categories: [审计]
+image: "paper1.jpg"
+---
+
+## Is It Better to Kill Two Birds with One Stone? Internal Control Audit Quality and Audit Costs for Integrated versus Nonintegrated Audits
+
+:::{#hero-heading}
+
+财务报告内部控制审计(ICFR)通常与财务报表审计(FSs)相结合——两种审计都由同一家审计公司进行，审计公司设计程序以同时满足两种审计的目标。一个常见的假设是，集成两个审计比单独执行它们更有效和高效。然而，这一假设尚未得到实证检验。通过对采用不同审计公司进行财务报表和财务报表审计的中国公司(即非综合审计公司)的样本，我们发现了挑战这一假设的证据。具体来说，我们发现非集成审计的ICFR审计质量高于集成审计。此外，尽管ICFR审计费用较高，但非综合审计的总审计费用较低。
+:::

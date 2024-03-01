@@ -1,9 +1,9 @@
 ---
-title: "Quarto相关视频"
+title: "如何使用 Quarto 打造你的个人主页"
 author: "李原"
 date: "2024-02-29"
 categories: [video, quarto]
-image: "video.jpg"
+image: "tech1.jpg"
 ---
 
 # Quarto 构建博客有关的视频指导：
