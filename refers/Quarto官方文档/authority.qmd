@@ -1,0 +1,15 @@
+---
+title: "Quarto官方文档"
+author: "李原"
+date: "2024-02-29"
+categories: [authority, quarto]
+image: "authority.jpg"
+---
+
+# Quarto官方文档中与博客构建有关的内容：
+
+[导航栏](https://quarto.org/docs/websites/website-navigation.html)
+
+[ About 页面](https://quarto.org/docs/websites/website-about.html)
+
+[列表页](https://quarto.org/docs/websites/website-listings.html)

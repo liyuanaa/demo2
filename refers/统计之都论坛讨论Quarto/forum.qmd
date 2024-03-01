@@ -1,0 +1,15 @@
+---
+title: "统计之都论坛讨论Quarto"
+author: "李原"
+date: "2024-02-29"
+categories: [forum, quarto]
+image: "forum.jpg"
+---
+
+# 统计之都论坛里面大佬的讨论帖：
+
+[Frank Harrell 用 quarto 写博客](https://d.cosx.org/d/423166-frank-harrell-quarto)
+
+[Quarto 尝鲜](https://d.cosx.org/d/423085-quarto/8)
+
+[Quarto和R Markdown的区别？](https://d.cosx.org/d/422901-quartor-markdown/10)
