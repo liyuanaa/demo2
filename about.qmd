@@ -42,5 +42,5 @@ about:
 会计监管、公司治理、家族企业、政商关系
 
 ## 兴趣技能
-Python、Stata、Quarto
+Python、Stata、MySQL、Quarto
 :::
