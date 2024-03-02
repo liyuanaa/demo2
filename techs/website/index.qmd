@@ -19,3 +19,5 @@ image: "tech1.jpg"
 [ Create & Publish a Quarto Blog on Quarto Pub in 100 Seconds | Quarto Pub ](https://www.youtube.com/watch?v=t8qtcDyCRFA)
 
 :::
+
+{{<video https://www.youtube.com/embed/wo9vZccmqwc>}}
