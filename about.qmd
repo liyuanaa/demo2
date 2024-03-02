@@ -27,7 +27,6 @@ about:
 
 # 简介
 
-:::{#hero-heading}
 会计学在读硕士生一枚 ~ 
 道阻且长，行则将至。
 
@@ -43,4 +42,4 @@ about:
 
 ## 兴趣技能
 Python、Stata、MySQL、Quarto
-:::
+
