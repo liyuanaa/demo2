@@ -6,6 +6,7 @@ categories: [公司治理, 文献综述]
 image: "book1.jpg"
 ---
 
+:::{#hero-heading}
 
 ## 大股东治理
 
@@ -24,3 +25,4 @@ image: "book1.jpg"
 ## 文化
 
 ## 市场机制
+:::

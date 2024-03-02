@@ -6,7 +6,7 @@ categories: [审计]
 image: "paper1.jpg"
 ---
 
-## Is It Better to Kill Two Birds with One Stone? Internal Control Audit Quality and Audit Costs for Integrated versus Nonintegrated Audits
+## Is It Better to Kill Two Birds with One Stone? 
 
 :::{#hero-heading}
 

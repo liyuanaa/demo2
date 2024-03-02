@@ -8,10 +8,14 @@ image: "tech1.jpg"
 
 # Quarto 构建博客有关的视频指导：
 
+:::{#hero-heading}
 ## Bilibili：
-[孔令仁：使用 Quarto 快速构建个人博客网站 | 统计之都云讲堂第八讲](https://www.bilibili.com/video/BV1t14y1s7co/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=218cb6b73288af0fe1d857478d0c4cc6)
+
+[使用 Quarto 快速构建个人博客网站](https://www.bilibili.com/video/BV1t14y1s7co/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=218cb6b73288af0fe1d857478d0c4cc6)
 
 ## Youtube：
 [ Building a Blog with Quarto | Led by Isabella Velásquez, RStudio ](https://www.youtube.com/watch?v=CVcvXfRyfE0)
 
 [ Create & Publish a Quarto Blog on Quarto Pub in 100 Seconds | Quarto Pub ](https://www.youtube.com/watch?v=t8qtcDyCRFA)
+
+:::

@@ -1,9 +1,10 @@
 
 # Hi! 
 
-## 这里是真诚的记录与分享~
+:::{#hero-heading}
+# 这里是真诚的记录与分享~
 
-## 关于我
+# 关于我
 ```Python
 class Me:
     def __init__(self):
@@ -16,6 +17,7 @@ class Me:
         self.identity = "Master Candidate"
         self.email = "liyuan_i@163.com"
 ```
+:::
 
 
 
