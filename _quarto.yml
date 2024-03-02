@@ -19,11 +19,7 @@ website:
       - text: "主页"
         file: home.qmd
       - text: "博客"
-        file: 
-          index.qmd
-          techs.qmd
-          books.qmd
-          papers.qmd
+        file: index.qmd
       - text: "资料"
         file: references.qmd
       - text: "个人简历"
