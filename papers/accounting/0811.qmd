@@ -1,0 +1,21 @@
+---
+title: "【RAS】Market for corporate control and demand for auditing: evidence from international M&A laws"
+author: "Ahrum Choi, Jeong-Bon Kim, Jay Junghun Lee, Jong Chool Park"
+date: "2024-08-12"
+categories: [会计]
+image: "paper9.jpg"
+---
+
+## Market for corporate control and demand for auditing: evidence from international M&A laws
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240811-1.png)
+
+:::{#hero-heading}
+
+本文研究在跨国环境下，公司控制权市场是否以及如何影响审计服务需求，目前鲜有从审计角度研究公司控制市场的文献。在M&A法案颁布后公司更有可能选择四大会计师事务所，即M&A法案的通过增加了收购压力，从而提升了对高质量审计的需求。这主要是通过管理层承诺减少代理问题和加强董事会监督两个渠道实现。进一步分析表明，审计质量的提高促进了债权人和投资者对会计信息的依赖，这分别反映在颁布后时期更多地使用基于会计的债务契约和增强的收益信息。
+● DID：1991年至2004年期间，许多国家先后通过了并购法，通过简化并购交易的立法，取消不必要和耗时的审批程序，加强了公司控制市场。1986-2009年期间来自32个国家的公司为样本。
+控制法律制度、年份、行业固定效应。Why不控制国家固定效应？
+● 现有文献中审计质量衡量指标分为：输出型指标、输入型指标和其他指标。其中，输出型指标包括；总应计项目、财务报告重述、小额利润、发表与持续经营相关审计意见；输入型及其他包括：BigN 审计师、审计费用占公司总费用比例、客户重要性、审计任期、是否为新客户、客户公司的地理位置、审计师事务所与客户总部是否在同一城市、城市专家审计、行业专家审计。但本文采用——估计审计师发布错误不合格审计意见的可能性来衡量审计质量（即第II类错报风险），小Y表示对这个可信度存疑，为什么不多用几个指标
+:::
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240811-2.png)

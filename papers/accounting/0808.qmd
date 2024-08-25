@@ -1,0 +1,22 @@
+---
+title: "【CG】Lifting Women Up: Gender Quotas and the Advancement of Women on Corporate Boards"
+author: "Anna Gibert, Alexandra Fedorets"
+date: "2024-08-08"
+categories: [会计]
+image: "paper6.jpg"
+---
+
+## Lifting Women Up: Gender Quotas and the Advancement of Women on Corporate Boards
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240808-1.png)
+
+:::{#hero-heading}
+
+中规中矩的选题，能发CG可能是由于利用了德国CQL法案，然后探讨了双层董事会之间的溢出效应叭
+
+DID：德国立法改革，在上市公司监事会中引入性别配额。2014年GQL法案，(一)监事会中代表不足的性别必须占30%的配额；(二)管理委员会成员的自愿配额由每个公司单独确定。总之，自2016年1月1日起，GQL要求监事会中代表比例不足的性别至少占30%。德国的双层董事会结构使得对同一公司内受影响和未受影响董事会的对照成为可能。管理委员会(或执行委员会) v.s.监事会(或非执行委员会)。
+
+真正促进女性职业公平竞争的蜂后效应 v.s.利于内部精英女性的金裙子效应？董事会中女性比例的部分增长可能有利于已经在董事会任职的女性内部人士，而不是增加新女性的参与，从而导致形成一个小型精英女性董事群体，类似于传统的"老男孩网络"，这与实现更广泛的权力分配的目标相矛盾。
+
+强制配额？市场决定？本文发现了强制配额对女性在公司执行董事会中代表性的负面溢出效应，导致两个董事会中女性比例基本上保持不变。也证实了第二个玻璃天花板的存在，尽管女性在会议桌上的代表性有所增加，但很难担任管理委员会职位，转而积累非执行董事职位。需要将配额与其他举措结合起来，促进女性人才在公司的话语权变革。
+:::

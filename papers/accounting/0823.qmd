@@ -1,0 +1,30 @@
+---
+title: "【CAR】Trading off Managerial and Investor Uncertainty in Firm Disclosure: Evidence from R&D Investments and Management Guidance"
+author: "Svenja Dube"
+date: "2024-08-23"
+categories: [会计]
+image: "paper6.jpg"
+---
+
+## Trading off Managerial and Investor Uncertainty in Firm Disclosure: Evidence from R&D Investments and Management Guidance
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240824-1.png)
+
+:::{#hero-heading}
+
+投资者和管理层不确定性是激励信息披露的两股相反力量。投资者的不确定性增加了自主信息披露的可能性，而管理者的不确定性减少了这种披露。
+
+本文实证检验了R&D强度如何影响管理层盈余指引提供、范围和内容。研究发现，高R&D公司提供的收益指引并不比低R&D公司少，这一结论与已有研究认为管理不确定性增加减少了收益指引的数量相悖。本文认为这是源于R&D的独特性质：管理者必须权衡投资者不确定性增加带来的披露激励和管理不确定性增加带来的披露成本。具体地，高R&D公司会发布更多的季度指导，而非年度指导，且正面指引更少。总的来说，研究结果表明，当管理不确定性阻碍了长期正面指导的发布时，企业通过用短期指导替代长期正面指导来修改其收益指导的范围和内容。
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240824-2.png)
+
+IV：州级R&D税收抵免作为R&D强度的工具变量。
+
+本文的亮点是将R&D费用作为权衡投资者和管理层不确定性同时增加的代理变量，契合了对立力量影响自愿披露的主题。
+
+Why研究前瞻性指引的披露？收益指引揭示了管理者对未来收益的预期，减少了投资者的不确定性，但其准确性取决于管理层对未来收益的不确定性。因此，前瞻性指引是一个合适的披露渠道，用来研究更高的管理层和投资者不确定性如何同时与自主披露相关联。
+
+与J. M. Kim等(2021)研究的所有权成本和投资者不确定性在自愿披露中的抵消效应有异曲同工之妙。
+Kim, J. M., Taylor, D. J., & Verrecchia, R. E. (2021). Voluntary disclosure when private information and disclosure costs are jointly determined. Review ofAccounting Studies, 26, 971–1001.
+
+:::

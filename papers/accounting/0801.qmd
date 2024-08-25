@@ -1,0 +1,20 @@
+---
+title: "【BAR】Corporate Managers Perspectives on Forward-Looking Guidance: SurveyEvidence"
+author: "Andrew C. Call, Paul Hribar, Douglas J. Skinner, David Volant"
+date: "2024-08-01"
+categories: [会计]
+image: "paper2.jpg"
+---
+
+## Corporate Managers Perspectives onForward-Looking Guidance: SurveyEvidence
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240801-1.png)
+
+:::{#hero-heading}
+
+● 问卷调查了高管发布前瞻性指引的激励机制、流程和观点。发现57% (11%)的受访公司提供的指标比I/B/E/S提供的更多(更少)，这主要是因为公司在多个地方以各种形式发布指导意见，所以机器可读的数据库无法获取完整的前瞻性指引。
+● 指引受众的是长期投资者和卖方分析师，对员工薪酬激励也有用。“我们的很多薪酬都与我们提出的每股收益目标挂钩。”
+● why将收益预告与前瞻性指引捆绑发布？便于在季度收益电话会议或与投资者和分析师的私人会议上更充分地讨论公司的前景，围绕收益公告展开更公开的讨论。
+● 是否自愿披露前瞻性指引是平衡收益与成本的结果。好处：管理分析师的期望，满足投资者的需求，满足分析师的需求，降低股票波动性。担忧：导致投资者、分析师过于关注短期业绩，报告实际业绩可能低于预期，增加证券诉讼的易感性。后果：后续指引发布的可信度降低(70%)、分析师的审查增加(59%)以及股价大幅下跌(56%)。经理们还表达了对董事会审查增加(41%)、对冲基金压力增加(37%)和共同基金压力增加(24%)的担忧。
+● 可信度损失、声誉影响和职业后果是影响指引发布的重要原因。
+:::

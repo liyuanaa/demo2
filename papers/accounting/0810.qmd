@@ -1,0 +1,24 @@
+---
+title: "【RAS】Which multiples matter in M&A? An overview"
+author: "Matthew Shaffer"
+date: "2024-08-10"
+categories: [会计]
+image: "paper8.jpg"
+---
+
+## Which multiples matter in M&A? An overview
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240810-1.png)
+
+:::{#hero-heading}
+
+当预期控制权发生变化时，收购目标的交易前市场价格可能会扭曲或不充分地衡量其价值，因此不能仅根据溢价来评估收购要约。理论上一致的教科书式估值方法是贴现自由现金流(DCF)和剩余收益估值。然而，这些都依赖于预测和贴现率假设，是主观可被操纵的。并购估值披露内容的多样性反映了并购治理中如何体现基本面与价值之间的联系这一问题。
+● 从SDC Platinum（全球并购数据库）下载了2000-2020年包括2,300笔独特交易的13,019个估值倍数数据。
+● 估值倍数的分类
+1. 估值分子:股权估值vs企业估值
+2. 价值驱动的分母:EBITDA、净收入、收入、账面权益、EBIT、现金流量、总资产、特定行业、毛利润。
+3. 分母测量周期:过去、现在或未来。
+4. 比较类型:可比交易vs可比交易倍数
+:::
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240810-2.png)

@@ -1,0 +1,39 @@
+---
+title: "文献收割-01"
+author: "李原"
+date: "2024-07-31"
+categories: [会计]
+image: "paper1.jpg"
+---
+
+## 文献收割-01
+
+:::{#hero-heading}
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240731-1.png)
+【JAR_Just Friends? Managers'Connections to judges】
+旧瓶装新酒，高管与联邦法官的校友关系影响集体诉讼的结果。
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240731-2.png)
+【AUDITING_Dark Triad Traits and Accounting: An operating,Reporting,and Assurance Framework】
+黑暗三人格（腹黑？）
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240731-3.png)
+【CG_The impact of board gender composition on loan covenantviolations】
+比较感兴趣的y贷款违约
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240731-4.png)
+【CG_Does the age of compensation committee members matter for CEO compensation?】
+薪酬委员会成员的年龄对CEO薪酬有负向影响。好像薪酬委员会的研究比较少。
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240731-5.png)
+【CG_Interrogating diversity: Feminism and the destructuration of Australian board appointment practices】
+比较有趣，女权主义运动对与董事会任命的影响
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240731-6.png)
+【CG_Millennial managers】
+千禧一代（1981年至1997年出生）共同基金经理会更偏好ESG
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240731-7.png)
+【BAR_Audit committee member busyness and risk factor disclosure】
+审计委员会成员繁忙(通过成员在其他董事会的服务来衡量)公司发布的风险因素信息披露质量较低(即可读性较差，不太关注公司基本面)
+:::

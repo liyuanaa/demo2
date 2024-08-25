@@ -1,0 +1,17 @@
+---
+title: "【CAR】The Effects and Potential Benefits of Audit Committee Oversight in a Strategic Setting"
+author: "Evelyn R. Patterson, J. Reed Smith, Samuel L. Tiras"
+date: "2024-08-17"
+categories: [会计]
+image: "paper3.jpg"
+---
+
+## The Effects and Potential Benefits of Audit Committee Oversight in a Strategic Setting
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240817-1.png)
+
+:::{#hero-heading}
+
+本文的亮点在于将审计委员会视为战略参与者，考虑其在内部控制设计和审计质量方面的影响。通过构建理论分析模型，发现审计委员会的存在可以降低管理层的欺诈风险，并提高外部审计师发现欺诈的概率。此外，其监督还可以促使管理层采取更加谨慎和透明的决策，从而提高公司的绩效和价值。
+
+:::

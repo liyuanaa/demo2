@@ -1,0 +1,24 @@
+---
+title: "【RAS】Outside directors’ insider trading around board meetings"
+author: "Seil Kim, Seungjoon Oh"
+date: "2024-08-12"
+categories: [会计]
+image: "paper10.jpg"
+---
+
+## Outside directors’ insider trading around board meetings
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240812-1.png)
+
+:::{#hero-heading}
+
+已有关于内幕交易的研究通常集中于公司高管，主要是由于高管比外部董事更有可能拥有私人信息。并且由于数据的限制，现有关于董事会会议的研究多基于非美国的场景，调查美国公司董事会会议的少数研究也仅限于调查数据的小样本。美国公司的股东有通过查阅公司记录(如董事会纪要)获取董事会会议信息的合法权利，这仅限于涉嫌管理不善等情境下。相比之下，在中国和韩国，董事会会议日期、董事会议程和董事投票分别在公司年度报告和代理委托书中事后公开披露，以遵守有关公司董事会会议披露的法律规定，故多有研究使用这些国际设置来检验董事投票行为。
+
+本文正是通过探索美国公司董事会会议日期信息的新数据来源（通过Lexis-Nexis搜索相关的SEC文件，使用以下所有关键词：一周中的一天例如星期一、章程、董事会、例会和董事），揭示了外部董事在董事会会议前获取私人信息的情况，为董事会会议前后的新闻披露和内幕交易提供了证据。董事会会议最频繁地被排在周二(46%)，其次是周四(22%)和周三(16%)，周一和周五是最不受欢迎的。
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240812-3.png)
+
+外部董事通常在董事会做出决定之前会收到私人信息，这为其提供了一个信息优势窗口，就会出现机会主义内幕交易与董事监督角色之间的权衡。未来美国证券交易委员会可能需要考虑强制要求对董事会会议日程进行保密报告或公开披露，以方便对围绕董事会会议进行的交易进行审查。
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240812-2.png)
+:::

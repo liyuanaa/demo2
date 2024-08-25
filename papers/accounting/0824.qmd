@@ -1,12 +1,14 @@
 ---
-title: "JCF-Do buy-side participants in earnings conference calls manipulate stock prices? "
-author: "李原"
+title: "【JCF】Do Buy-side Participants in Earnings Conference Calls Manipulate Stock Prices?"
+author: "Gang Hu, Michael J. Jung, M.H. Franco Wong, Danlei Bonnie Yu, X. Frank Zhang"
 date: "2024-08-24"
 categories: [会计]
-image: "paper1.jpg"
+image: "paper7.jpg"
 ---
 
-## Do buy-side participants in earnings conference calls manipulate stock prices? 
+## Do Buy-side Participants in Earnings Conference Calls Manipulate Stock Prices? 
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240824-1.png)
 
 :::{#hero-heading}
 

@@ -1,0 +1,21 @@
+---
+title: "【MAR】From Distrust to Trust: Balancing between Forcing and Fostering Management Control Systems in a Hostile Cross-border Post-acquisition Integration"
+author: "Erkki Vuorenmaa"
+date: "2024-08-18"
+categories: [会计]
+image: "paper4.jpg"
+---
+
+## From Distrust to Trust: Balancing between Forcing and Fostering Management Control Systems in a Hostile Cross-border Post-acquisition Integration
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240817-2.png)
+
+:::{#hero-heading}
+
+通过一个跨国敌意并购案例研究，探讨了管理控制与信任之间的关系。研究发现，在敌对的并购整合过程中，通过逐渐建立信任、促进合作和共享愿景，可以从不信任转变为信任的状态。
+不同整合层次的控制：将整合过程分为治理整合、程序整合、运营整合和内部网络建立四个层次，为并购后的整合效果研究提供了一个借鉴框架。
+区别了强制性控制和培育性控制在整合过程中的作用，以及如何通过建立合作结构、促进沟通和降低障碍来增强信任。
+
+:::
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240817-3.png)

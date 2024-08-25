@@ -1,0 +1,16 @@
+---
+title: "【BAR】Uncovering Interfirm Links through Textual Topic Similarity: A Comomentum Analysis in Financial Markets"
+author: "Zhiyu Zhang, Zheng Qiao, Yao Ge, Zhe Shen"
+date: "2024-08-03"
+categories: [会计]
+image: "paper5.jpg"
+---
+
+## Uncovering Interfirm Links through Textual Topic Similarity: A Comomentum Analysis in Financial Markets
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240802-1.png)
+
+:::{#hero-heading}
+
+从话题同行的角度描绘了企业之间基于文本的横向经济联系，扩展了关于企业间协同效应的研究。具体地，构建了跨企业的MD&A文本主题相似性关联回报指标来衡量企业之间的经济联系。发现话题同行的收益对焦点股的未来收益有很强的预测能力。
+:::

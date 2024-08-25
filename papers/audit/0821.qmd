@@ -1,0 +1,24 @@
+---
+title: "【JAR】Where Does the Time Go? Auditors’ Commercial Effort, Professional Effort, and Audit Quality"
+author: "WILLIAM A. CICONTE III, JUSTIN LEIBY, MARLEEN WILLEKENS"
+date: "2024-08-21"
+categories: [审计]
+image: "paper3.jpg"
+---
+
+## Where Does the Time Go? Auditors’ Commercial Effort, Professional Effort, and Audit Quality 
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240821-1.png)
+
+:::{#hero-heading}
+
+
+审计监管的一个普遍共识是，审计师最大化财富的商业动机与其行使谨慎怀疑的独立性相冲突。本文以荷兰的会计师事务所为样本，发现商业努力和审计师报酬之间正相关，但没有发现审计师的商业努力与其审计努力相关的证据，也没有发现审计师的商业努力与审计质量之间存在负相关的证据，这挑战了商业努力必然会给审计带来问题的普遍观点。此外，本文发现审计师的商业努力与其质量控制依赖(表现为技术咨询)正相关，并且商业努力通过咨询对审计质量有积极的间接影响，即质量控制允许审计师在增加商业努力的情况下保持审计质量，那么对商业努力的限制则不必要。
+
+Why荷兰？（1）与英美同：荷兰审计行业有严格的标准，审计师必须达到这些标准才能进入该行业，并要求持续培训和遵守该行业的道德准则。（2）与英美不同：2019年荷兰的上市公司相对较少，只有 83家，这些客户需要接受强制性的审计事务所轮换。而四大会计师事务所占荷兰所有上市公司审计的近98%，只有六家审计事务所争夺公共客户，客户的选择十分有限。同时，荷兰的大多数审计是针对较小的私营公司的，审计业务竞争激烈，通常合作伙伴通过参加社交活动、参与公司推动的营销计划或从现有客户那里获得推荐来赢得新业务，这一背景与本文研究审计师的商业努力相契合。
+
+但本文仅在一个特殊的审计市场中检验了商业动机与审计质量这个研究问题，是否具有普适性推广到其他环境？需要再结合更多的审计市场特征。
+
+:::
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240821-2.png)

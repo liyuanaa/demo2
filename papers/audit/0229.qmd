@@ -1,6 +1,6 @@
 ---
-title: "TAR-Is It Better to Kill Two Birds with One Stone? "
-author: "李原"
+title: "【TAR】Is It Better to Kill Two Birds with One Stone? "
+author: "Gunn, Joshua L., Chan Li, Lin Liao, and Shan Zhou."
 date: "2024-02-29"
 categories: [审计]
 image: "paper1.jpg"

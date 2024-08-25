@@ -1,0 +1,22 @@
+---
+title: "【MAR】Employee benefits and company performance: Evidence from a high-dimensional machine learning model"
+author: "Mikko Ranta, Mika Ylinen"
+date: "2024-08-15"
+categories: [会计]
+image: "paper1.jpg"
+---
+
+## Employee benefits and company performance: Evidence from a high-dimensional machine learning model
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240815-1.png)
+
+:::{#hero-heading}
+
+传统选题但采用机器学习。采用SHAP方法来解释不同的员工福利如何影响公司业绩，这一方法利用博弈论的Shapley值来评定各因素的重要性。同时使用双重机器学习模型进行稳健性测试。
+
+使用来自Kununu.com大约250000条员工评论数据集来评估员工的待遇，该网站类似于Glassdoor.com，为员工提供一个门户网站来评估雇主和工作条件，涵盖美国和中欧国家，本文聚焦于美国，但未来可在欧洲区域结合各国立法的差异利用这一数据。
+
+退休福利401(k)，员工折扣，停车，视力和牙科保健等是最广泛提供的福利，其次是带薪休假和人寿保险。最少提供的福利包括免费食品和家庭相关福利，如现场日托设施和报销日托，搬迁津贴和宠物友好型福利。尽管带薪育儿假提供得更广泛，但约25%的公司根本不提供这项福利。基于心理账户理论，这些与家庭相关的福利会受到员工更高的重视，这可能会通过提高员工绩效和从就业市场招聘有才华的员工来提高公司绩效。
+:::
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240815-2.png)

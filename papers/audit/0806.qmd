@@ -1,0 +1,29 @@
+---
+title: "【JAE】Do Signatory Auditors with Tax Expertise Facilitate or Curb ; 【JAE】Competence vs. Independence: Auditors’ Connections with Members of Their Clients’ Business Community"
+author: "Mark DeFond, Baolei Qi, Yi Si, Jieying Zhang; Mark DeFond, Zengquan Li, T.J. Wong, Kaiwen Wu"
+date: "2024-08-21"
+categories: [审计]
+image: "paper2.jpg"
+---
+
+今天读了最近JAE风格相似的两篇文章，分别是人大齐堡垒老师、上财李增泉老师和Defond大佬的合作，好像有那么拓展了一丢从现有文献中思考问题的思路。
+
+## Do Signatory Auditors with Tax Expertise Facilitate or Curb 
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240806-1.png)
+
+:::{#hero-heading}
+
+先前的研究得出结论，税务专家审计促进公司纳税筹划激进度。然而，这些研究涵盖了向客户提供非审计税务服务的审计师，故可能产生了与激励解释相冲突的发现（这大概就是为什么这篇文章能发在JAE叭…）。本文发现提供审计税务服务的税务专家审计师会降低公司纳税筹划激进度，因为税收积极性会给他们带来成本。与没有税务专业知识的审计师相比，税务专业知识的审计师应该更好地理解税务规划的复杂性，因此应该更好地抑制激进的税务规划。较高的应税收入和较高的涉税审计调整可能性是税务专家审计师约束客户税收积极性的渠道。
+
+## Competence vs. Independence: Auditors’ Connections with Members of Their Clients’ Business Community
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240806-2.png)
+
+先前的研究发现，审计师与客户的社会关系会损害审计质量。本文考察了审计师与其客户商业社区成员的社会关系，在这种情况下，审计师的关系会提高审计质量。与客户的联系应提高审计师评估客户收入确认、应收账款可回收性、存货过时、供应链中断、未来融资的可能性。
+
+核心解释变量的度量——审计师与客户社会关系：如果审计师与客户所在省份高管的学校和工作关系联系数量高于该省份该年所有审计师的中位数，则等于1，否则为0。
+
+贡献在于为审计市场监管提供了决策参考。中国和许多其他新兴经济体的审计市场监管机构都采取了鼓励小型审计公司合并的政策，这主要是基于具有更广泛的地理范围、更丰富的行业专业知识和集中决策的大型审计公司更有能力提供高质量的审计，从而与N大审计公司竞争。但本文发现在某种程度上，特定地区的知识是确保关系经济中高审计质量所必需的重要特征，这些合并实际上可能会产生损害审计质量这样的意外后果。同样，尽管PCAOB等监管机构倾向于将审计师独立性问题视为一刀切，但审计师独立性对审计质量的影响可能比通常认为的更为微妙，相关法规的成功还会取决于客户合同关系。
+
+:::

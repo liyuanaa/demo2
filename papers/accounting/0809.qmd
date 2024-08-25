@@ -1,0 +1,18 @@
+---
+title: "【BAR】The Value of Lending to Bellwether Firms by Institutional Investors"
+author: "Wayne R. Landsman, F. Dimas Peña-Romera, Jianxin Zhao"
+date: "2024-08-09"
+categories: [会计]
+image: "paper7.jpg"
+---
+
+## The Value of Lending to Bellwether Firms by Institutional Investors
+
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240809-1.png)
+
+:::{#hero-heading}
+
+已有文献发现，机构贷款人利用借贷关系中获得的信息，在借款人的股权中进行了有利可图的交易。同时，先前的文献提供了大量证据表明，领头羊公司的相关信息可以预测其他公司的股价表现。故本文认为，这种交易不仅局限于借款人公司，将思路拓展到同行业中龙头企业低利率借贷的内幕交易效应，提出两个研究问题：第一，机构贷款人向领头羊公司收取较低的贷款利差吗？第二，机构贷款人在向领头羊公司贷款时，是否在其他公司的股权中进行了套利交易？
+
+研究发现，当贷款给领头羊公司时，机构投资者收取的贷款溢价比非领头羊公司低17到25个基点，并通过交易其他公司的证券获得1.5-2.2%的年超额回报，即机构贷款人以低贷款利差借款给龙头企业以获取私人信息，从而更好地识别其他公司在公开证券市场中的交易机会。横截面分析的结果显示，当来自领先企业的私人信息的价值较高时，贷款利差的减少较大。此外，当机构贷款人向更透明的领头羊借款人放贷时，以及当他们以更低的价格(反映在贷款利差中)换取私人信息时，机构贷款人的超额回报更低。
+:::
