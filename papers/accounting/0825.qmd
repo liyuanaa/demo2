@@ -1,0 +1,23 @@
+---
+title: "JAR_The Effect of the Federal Judicial System on Public Enforcement: Evidence from SEC Enforcement Actions"
+author: "李原"
+date: "2024-08-25"
+categories: [会计] [监管]
+image: "paper2.jpg"
+---
+
+## The Effect of the Federal Judicial System on Public Enforcement: Evidence from SEC Enforcement Actions 
+
+:::{#hero-heading}
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240825-1.png)
+本文在前人关于SEC在有限资源情景下监管活动研究的基础上，进一步考察了联邦地区法院的效率是否会影响SEC执法（发起民事诉讼），强调了高效的联邦司法系统对公共执法的重要性，补充了法院效率与其他制约因素之间的互动动态关系。结果表明，SEC不太可能在效率较低的联邦地区法院对公司发起执法行动；法院效率越高，公司财务报告质量(FRQ)越高。
+
+采用主成分分析构建法院效率指标的三个衡量标准是:(1)从提交到终止的平均时间(终止时间)，(2)每位法官的案件积压(案件积压)，以及(3)每位法官的加权案件数量(加权案件)。法院效率指标越高，联邦地方法院的效率就越低。
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240825-2.png)
+![](https://raw.githubusercontent.com/liyuanaa/my-images/main/img/20240825-3.png)
+与一个月前之前读的【JAR_高管与联邦法官校友关系影响证券集体诉讼(SCAL)结果】联动。
+
+具体替代性解释排除的研究设计还得看看。
+
+
+:::
