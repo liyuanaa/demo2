@@ -2,7 +2,7 @@
 title: "JAR_The Effect of the Federal Judicial System on Public Enforcement: Evidence from SEC Enforcement Actions"
 author: "李原"
 date: "2024-08-25"
-categories: [会计] [监管]
+categories: [监管]
 image: "paper2.jpg"
 ---
 
